@@ -29,8 +29,8 @@ Users can type the ingredients they have, and the app will generate:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sanjanapatil01/Self-Chef-Ai-Recipe-Generator.git
-cd Self-Chef-Ai-Recipe-Generator
+git clone https://github.com/sanjanapatil01/Self_chef_ai.git
+cd Self-chef-ai
 
 ````
 
@@ -82,15 +82,7 @@ Frontend runs on 👉 `http://localhost:3000`
    * Cooking Steps
    * YouTube link
 
----
 
-## 🔮 Future Improvements
-
-* Embed YouTube videos directly instead of just links
-* Save favorite recipes
-* Add authentication & personalization
-
----
 
 ## 🤝 Contributing
 
